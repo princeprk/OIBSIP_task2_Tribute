@@ -1,0 +1,322 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #09203f;
+    scroll-behavior: smooth;
+}
+
+.azad{
+    margin: 10px auto;
+    width: 868px;
+    height: 361px;
+    background-image: url(azad.jpg);
+    background-position: top center;
+    border: 2px solid white;
+    border-radius: 10px ;
+    box-shadow: 2px 2px 10px white;
+}
+
+.name{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    text-decoration: underline;
+}
+
+.card{
+    border: 2px solid white ;
+    height:730px ;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px white;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em;
+    width: 22em;
+}
+
+.head{
+    color: white;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image{
+    border: 0;
+    vertical-align: middle;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    padding: 2px;
+    margin-top: 2px;
+    
+}
+.bio{
+    color: rgb(255, 247, 0);
+    font-size: 20px;
+    margin: 0;
+    padding: 8px;
+}
+
+.bio p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+
+.bio2{
+    color: rgb(255, 247, 0);
+    font-size: 20px;
+    margin: 0;
+    padding: 8px;
+}
+
+.bio2 p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+
+.bio3{
+    color: rgb(255, 247, 0);
+    font-size: 20px;
+    margin: 0;
+    padding: 8px;
+}
+
+.bio3 p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+
+}
+.article{
+    color: rgb(225, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px;
+    display: flex;
+    align-items: self-start;
+    justify-content: flex-start;
+    margin-top: 25px;
+    padding: 15px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);  
+}
+
+.about p {
+    color: aliceblue;
+    margin: 25px;
+    font-size: 16px;  
+}
+
+.earlylife {
+    color: rgb(225, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px;
+    display: flex;
+    align-items: self-start;
+    justify-content: flex-start;
+    margin-top: 25px;
+    padding: 15px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+.life{
+    color: aliceblue;
+    margin: 25px;
+    font-size: 16px;
+    
+}
+.revolutionlife {
+    color: rgb(225, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px;
+    display: flex;
+    align-items: self-start;
+    justify-content: flex-start;
+    margin-top: 25px;
+    padding: 15px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    
+}
+
+.revolution{
+    color: aliceblue;
+    margin: 25px;
+    font-size: 16px;
+}
+
+.jhanshi{
+    color: rgb(225, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px;
+    display: flex;
+    align-items: self-start;
+    justify-content: flex-start;
+    margin-top: 25px;
+    padding: 15px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+.jhanshi2{
+    color: aliceblue;
+    margin: 25px;
+    font-size: 16px;
+}
+
+.singh{
+    color: rgb(225, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px;
+    display: flex;
+    align-items: self-start;
+    justify-content: flex-start;
+    margin-top: 25px;
+    padding: 15px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+.Bhagatsingh{
+    color: aliceblue;
+    margin: 25px;
+    font-size: 16px;
+}
+
+.death{
+    color: rgb(225, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px;
+    display: flex;
+    align-items: self-start;
+    justify-content: flex-start;
+    margin-top: 25px;
+    padding: 15px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+.death2{
+    color: aliceblue;
+    margin: 25px;
+    font-size: 16px;
+}
+
+.legacy{
+    color: rgb(225, 255, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px;
+    display: flex;
+    align-items: self-start;
+    justify-content: flex-start;
+    margin-top: 25px;
+    padding: 15px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+.legacy1{
+    color: aliceblue;
+    margin: 25px;
+    font-size: 16px;
+}
+
+footer{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    margin: 10px;
+}
+
+@media only screen and (max-width : 800px){
+    .name{
+        color: rgb(255, 255, 255);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+        font-size: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px;
+        background-image: linear-gradient(to top, #09203f 0%, #537895 100%);+654\]
+        text-decoration: underline;
+        flex-wrap: wrap;
+    }
+    .azad{
+        margin: 10px auto;
+        margin-left: 25px;
+        width: 300px;
+        height: 168px;
+        background-image: url(azad2.png);
+        background-position: top center;
+        border: 2px solid white;
+        border-radius: 10px ;
+        box-shadow: 2px 2px 10px white;
+    }
+
+    .card {
+        border: 2px solid white;
+        height: 730px;
+        border: 1px solid #ffffff;
+        border-radius: 8px;
+        box-shadow: 3px 3px 10px white;
+        border-spacing: 3px;
+        background-color: #09203f;
+        color: black;
+        margin: 0.5em;
+        padding: 0.2em;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-size: 3.88vw;
+        line-height: 1.5em;
+        width: 95vw;
+    }
+    
+    .head {
+        color: white;
+        font-size: 7.08vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .image {
+        border: 2px solid white;
+        border-radius: 15px;
+        box-shadow: 2px 2px 10px white;
+        vertical-align: middle;
+        overflow-clip-margin: content-box;
+        overflow: clip;
+        padding: 2px;
+        margin-top: 2px;
+    }
+    
+   
+    .sec{
+        color: rgb(255, 247, 0);
+        font-size: 20px;
+        margin-top: 10px;
+        padding: 3.67vw;
+        margin-left: 5px;
+        padding: 0;
+
+    }
+
+    .article , .earlylife, .revolutionlife, .jhanshi, .singh, .death, .legacy{
+        font-size :28px;
+        font-weight: bold;
+    }
+
+    .about p, .life p, .revolution p, .jhanshi2 p, .Bhagatsingh p, .death2 p, .legacy1{
+        font-size: 15px ;
+    } 
+
+}
